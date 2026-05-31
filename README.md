@@ -1,6 +1,6 @@
 # Juan Camilo Rosero
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=888888&width=500&lines=Ing.+Sistemas+%40+UNAL+Bogotá;Construyo+cosas+que+resuelven+problemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=888888&width=500&lines=Ing.+Sistemas+%40+UNAL+Bogotá;Conecto+negocio+con+tecnología)](https://git.io/typing-svg)
 
 ---
 
