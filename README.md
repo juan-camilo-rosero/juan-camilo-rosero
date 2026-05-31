@@ -1,28 +1,28 @@
-## Hola 👋
+# Juan Camilo Rosero
 
-Mi nombre es Juan Camilo, soy un desarrollador frontend con experiencia en UX/UI, React, Next y Tailwind. He trabajado en varios proyectos como freelancer y aspiro a ser founder de una startup.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=888888&width=500&lines=Ing.+Sistemas+%40+UNAL+Bogotá;Construyo+cosas+que+resuelven+problemas)](https://git.io/typing-svg)
 
-## Reconocimientos y premios
-* **Ganador de UX/UI Hackathon (dic 2024)**: Primer lugar entre más de 200 participantes
-* * **Tercer lugar en Mega Hackathon (ago 2024)**: Tercer lugar entre más de 270 participantes
-* * **Ganador de Concurso Académico Nacional de Economía (oct 2022)**
+---
 
-## Industrias de interés:
-* SaaS
-* Fintech
-* Marketplace
+Estudiante de séptimo semestre en la Universidad Nacional. Actualmente hago parte de Achievers Lab, donde conectamos a estudiantes con empresas reales, como Finandina, Grupo Bolívar o Telefónica, a través de retos de innovación.
 
-<!--
-**juan-camilo-rosero/juan-camilo-rosero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me interesa infraestructura de pagos y banca. Mientras estaba en el colegio gané el Concurso Académico Nacional de Economía, y en mi LinkedIn subo contenido de fintech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-camilo-rosero&show_icons=true&theme=default&hide_border=true&hide_title=true)](https://github.com/juan-camilo-rosero)
+
+---
+
+[LinkedIn](https://linkedin.com/in/juan-rosero)
